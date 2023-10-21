@@ -5,18 +5,18 @@ permalink: /courses/
 author_profile: true
 ---
 
-#### Relevant Physics courses:
-Linear Algebra 
-Quantum Physics
-Condensed Matter Physics
-Quantum Information Theory
+### Relevant Physics courses:
+* Linear Algebra 
+* Quantum Physics
+* Condensed Matter Physics
+* Quantum Information Theory
 Quantum Mechanics I
 Quantum Mechanics II
 Statistical Mechanics
 Many- body Quantum Mechanics of Degenerate Gases
 Numerical Methods and Programming 
 
-#### Relevant DSE courses:
+### Relevant DSE courses:
 Data Structures and Algorithms
 Applied Optimization
 Discrete Mathematics 

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Awards
-1. **MITACS Globalink Research Internship, Canada**
+1. **MITACS Globalink Research Internship, Canada**:
 I had the honor of being selected for the fully funded MITACS Globalink Internship program, which provided me with a remarkable opportunity to embark on a 12-week research internship in Canada.
 2. **CHANAKYA Fellowship Awardee**:
 I received the CHANAKYA Fellowship for my **MS-thesis project from the I-HUB Quantum Technology Foundation**, supported by the Department of Science and Technology at IISER Pune.
